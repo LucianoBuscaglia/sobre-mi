@@ -1,0 +1,33 @@
+/* Estilos para el encabezado */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Estilos para los títulos de los artículos */
+article h2 {
+    color: #190484;
+    margin-bottom: 10px;
+}
+
+/* Estilos para los títulos de los enlaces */
+aside h2 {
+    color: #190484;
+    margin-bottom: 10px;
+}
+
+/* Estilos para las imágenes */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Estilos para el pie de página */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
